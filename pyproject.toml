@@ -1,9 +1,8 @@
-[build-system]
-requires = ["setuptools", "wheel"]
-build-backend = "setuptools.build_meta"
-
 [project]
 name = "pytorchstudiogan"
 version = "0.0.1"
 description = "PyTorch implementation of StudioGAN"
 authors = [{ name = "Daniel Barco", email = "baoc@zhaw.ch" }]
+
+[tool.setuptools.packages.find]
+where = ["pytorchstudiogan"]

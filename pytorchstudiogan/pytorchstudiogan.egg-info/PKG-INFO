@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: pytorchstudiogan
+Version: 0.0.1
+Summary: PyTorch implementation of StudioGAN
+Author-email: Daniel Barco <baoc@zhaw.ch>
+License-File: LICENSE
+License-File: LICENSE-NVIDIA
