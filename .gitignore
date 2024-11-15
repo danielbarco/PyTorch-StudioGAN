@@ -12,3 +12,4 @@ wandb/
 test/
 *.csv
 *.npy
+src/pytorchstudiogan.egg-info/dependency_links.txt
